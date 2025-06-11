@@ -12,11 +12,10 @@ updates:
       timezone: "Europe/Lisbon"
       interval: "daily"
     reviewers:
-      - "MF366-Coding"
       - "norbcodes"
-      - "DamnUI"
+      - "DamnUi"
     assignees:
-      - "MF366-Coding"
+      - "DamnUi"
     commit-message:
       prefix: "pip"
 
