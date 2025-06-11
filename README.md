@@ -1,7 +1,7 @@
 # GoodBeats
 Music Recommendation Software. 
 
-**A project by:** [MF366](https://github.com/MF366-Coding) | [Norb](https://github.com/norbcodes) | [DamnUI](https://github.com/DamnUI) 
+**A project by:** [DamnUI](https://github.com/DamnUI) |  | [Norb](https://github.com/norbcodes) | [MF366](https://github.com/MF366-Coding)
 
 <!-- <img src="https://raw.githubusercontent.com/MF366-Coding/GoodBeats/main/assets/left_with_text_logo.png" alt="Banner" width="300"> -->
 
